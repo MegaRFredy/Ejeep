@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Ejeep</string>
+    <!-- Main Activity -->
+
+    <string name="MenuDriver">SELECT DRIVER NAME</string>
+    <string name="D1">Felipe</string>
+    <string name="D2">Felipe</string>
+    <string name="D3">Felipe</string>
+    <string name="D4">Felipe</string>
+    <string name="D5">Felipe</string>
+    <string name="D6">Felipe</string>
+    <string name="D7">Felipe</string>
+    <string name="D8">Felipe</string>
+    <string name="D9">Felipe</string>
+    <string name="D10">Felipe</string>
+    <string name="D111">Felipe</string>
+    <string name="D12">Felipe</string>
+    <string name="D13">Felipe</string>
+    <string name="D14">Felipe</string>
+    <string name="D15">Felipe</string>
+    <string name="D16">Felipe</string>
+    <string name="D17">Felipe</string>
+    <string name="D18">Felipe</string>
+    <string name="D19">Felipe</string>
+    <string name="D20">Felipe</string>
+
+    <!-- END of Main Activity -->
+
 </resources>
