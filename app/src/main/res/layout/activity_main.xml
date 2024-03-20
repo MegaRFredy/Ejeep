@@ -24,25 +24,128 @@
 
 
         <Button
-            android:id="@+id/D1"
-            android:layout_width="match_parent"
+            android:id="@+id/F1"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
             android:layout_below="@id/t1"
-            android:textSize="20sp"
+            android:textSize="40sp"
             android:layout_marginTop="30dp"
+            android:layout_marginLeft="5mm"
             android:textColor="@color/black"
-            android:text="@string/D1"/>
+            android:text="@string/F1"/>
 
         <Button
-            android:id="@+id/D2"
-            android:layout_width="match_parent"
+            android:id="@+id/F2"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/D1"
-            android:textSize="20sp"
+            android:layout_below="@id/t1"
+            android:layout_marginLeft="35mm"
+            android:textSize="40sp"
             android:layout_marginTop="30dp"
             android:textColor="@color/black"
-            android:text="@string/D1"/>
+            android:text="@string/F2"/>
+
+
+        <Button
+            android:id="@+id/F3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/F2"
+            android:textSize="40sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="5mm"
+            android:textColor="@color/black"
+            android:text="@string/F3"/>
+
+        <Button
+            android:id="@+id/F4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/F2"
+            android:layout_marginLeft="35mm"
+            android:textSize="40sp"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/black"
+            android:text="@string/F4"/>
+
+        <Button
+            android:id="@+id/F5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/F4"
+            android:textSize="40sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="5mm"
+            android:textColor="@color/black"
+            android:text="@string/F5"/>
+
+        <Button
+            android:id="@+id/F6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/F4"
+            android:layout_marginLeft="35mm"
+            android:textSize="40sp"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/black"
+            android:text="@string/F6"/>
+
+        <Button
+            android:id="@+id/F7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/F5"
+            android:textSize="40sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="5mm"
+            android:textColor="@color/black"
+            android:text="@string/F7"/>
+
+        <Button
+            android:id="@+id/F8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/F5"
+            android:layout_marginLeft="35mm"
+            android:textSize="40sp"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/black"
+            android:text="@string/F8"/>
+
+        <Button
+            android:id="@+id/F9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/F7"
+            android:textSize="40sp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="5mm"
+            android:textColor="@color/black"
+            android:text="@string/F9"/>
+
+        <Button
+            android:id="@+id/VIEW"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/F7"
+            android:layout_marginLeft="35mm"
+            android:textSize="35sp"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/black"
+            android:text="@string/VIEW"/>
+
+        <Button
+            android:id="@+id/SAVE"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/VIEW"
+            android:textSize="40sp"
+            android:layout_marginTop="30dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="5mm"
+            android:textColor="@color/black"
+            android:text="@string/SAVE"/>
+
 
     </RelativeLayout>
 

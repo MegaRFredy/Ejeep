@@ -3,7 +3,7 @@
 
 
     <!-- DRIVER Activity -->
-    <string name="MenuDriver">SELECT FARE</string>
+    <string name="MenuDriver">SELECT DRIVER</string>
     <string name="D1">Felipe</string>
     <string name="D2">Felipe</string>
     <string name="D3">Felipe</string>
@@ -61,6 +61,22 @@
     <string name="T9">09</string>
     <string name="T10">10</string>
 
+    <!-- END of TRIP Activity -->
+
+    <!-- FARE AMOUNT  -->
+    <string name="F1">50</string>
+    <string name="F2">45</string>
+    <string name="F3">40</string>
+    <string name="F4">35</string>
+    <string name="F5">30</string>
+    <string name="F6">25</string>
+    <string name="F7">20</string>
+    <string name="F8">15</string>
+    <string name="F9">10</string>
+    <string name="VIEW">VIEW</string>
+    <string name="SAVE">SAVE</string>
+
+    <!-- FARE AMOUNT  -->
 
 
 
