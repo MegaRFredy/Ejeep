@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Ejeep</string>
-    <!-- Main Activity -->
 
-    <string name="MenuDriver">SELECT DRIVER NAME</string>
+
+    <!-- DRIVER Activity -->
+    <string name="MenuDriver">SELECT FARE</string>
     <string name="D1">Felipe</string>
     <string name="D2">Felipe</string>
     <string name="D3">Felipe</string>
@@ -24,6 +25,43 @@
     <string name="D19">Felipe</string>
     <string name="D20">Felipe</string>
 
-    <!-- END of Main Activity -->
+    <!-- END of DRIVER Activity -->
+
+
+    <!-- START of BODYNUMBER Activity -->
+    <string name="F01">F-01</string>
+    <string name="F02">F-02</string>
+    <string name="F03">F-03</string>
+    <string name="F04">F-04</string>
+    <string name="F05">F-05</string>
+    <string name="F06">F-06</string>
+    <string name="F07">F-07</string>
+    <string name="F08">F-08</string>
+    <string name="F09">F-09</string>
+    <string name="F10">F-10</string>
+    <string name="F11">F-11</string>
+    <string name="F12">F-12</string>
+    <string name="F13">F-13</string>
+    <string name="F14">F-14</string>
+    <string name="F15">F-15</string>
+    <string name="F16">F-16</string>
+
+    <!-- END of BODYNUMBER Activity -->
+
+    <!-- START of TRIP Activity -->
+
+    <string name="T1">01</string>
+    <string name="T2">02</string>
+    <string name="T3">03</string>
+    <string name="T4">04</string>
+    <string name="T5">05</string>
+    <string name="T6">06</string>
+    <string name="T7">07</string>
+    <string name="T8">08</string>
+    <string name="T9">09</string>
+    <string name="T10">10</string>
+
+
+
 
 </resources>
