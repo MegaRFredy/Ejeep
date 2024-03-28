@@ -16,7 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:textSize="20sp"
-            android:text="@string/MenuDriver"
+            android:text="@string/Fare"
             android:gravity="center"
             android:layout_centerHorizontal="true"
             android:background="@color/green"

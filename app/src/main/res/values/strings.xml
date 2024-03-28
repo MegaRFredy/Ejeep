@@ -69,6 +69,7 @@
     <!-- END of TRIP Activity -->
 
     <!-- FARE AMOUNT  -->
+    <string name= "Fare">FARE</string>
     <string name="F1">50</string>
     <string name="F2">45</string>
     <string name="F3">40</string>
