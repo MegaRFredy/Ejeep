@@ -24,15 +24,5 @@ public class DriverName extends AppCompatActivity {
             return insets;
         });
 
-        // Set OnClickListener for the D1 button
-        Button D1 = findViewById(R.id.D1);
-        D1.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                // Define navigation logic to start the next activity
-                Intent intent = new Intent(DriverName.this, MainActivity.class);
-                startActivity(intent);
-            }
-        });
     }
 }
