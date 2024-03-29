@@ -1,5 +1,5 @@
 package com.fare.ejeep;
-import android.widget.Button;
+
 
 import android.os.Bundle;
 
@@ -10,8 +10,6 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
-    Button F1, F2, F3,F4,F5,F6, F7, F8 ,F9 , VIEW ,SAVE; // Declare two Button variables named button1 and button2
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,8 +21,6 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
-        Button F1 = findViewById(R.id.F1);
-        String buttonText = F1.getText().toString();
 
     }
 }

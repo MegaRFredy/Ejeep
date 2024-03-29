@@ -32,6 +32,7 @@
             android:layout_marginTop="30dp"
             android:layout_marginLeft="5mm"
             android:textColor="@color/black"
+            android:onClick="handleButtonClick"
             android:text="@string/F1"/>
 
         <Button
