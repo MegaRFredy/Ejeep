@@ -12,7 +12,7 @@
         tools:context=".MainActivity">
 
         <TextView
-            android:id="@+id/t1"
+            android:id="@+id/textview1"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:textSize="20sp"
@@ -27,7 +27,7 @@
             android:id="@+id/F1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/t1"
+            android:layout_below="@id/textview1"
             android:textSize="40sp"
             android:layout_marginTop="30dp"
             android:layout_marginLeft="5mm"
@@ -39,7 +39,7 @@
             android:id="@+id/F2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/t1"
+            android:layout_below="@id/textview1"
             android:layout_marginLeft="35mm"
             android:textSize="40sp"
             android:layout_marginTop="30dp"
@@ -131,6 +131,7 @@
             android:layout_below="@id/F7"
             android:layout_marginLeft="35mm"
             android:textSize="35sp"
+            android:onClick="openViewDataActivity"
             android:layout_marginTop="30dp"
             android:textColor="@color/black"
             android:text="@string/VIEW"/>
@@ -146,6 +147,7 @@
             android:layout_marginLeft="5mm"
             android:textColor="@color/black"
             android:text="@string/SAVE"/>
+
 
 
     </RelativeLayout>

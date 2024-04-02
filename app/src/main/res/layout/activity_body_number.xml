@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BodyNumber">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textviewBody"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/F001"
+            android:paddingTop="10dp"
+            android:layout_marginTop="5dp"
+            android:gravity="center">
+
+        </TextView>
+
+
+
+            <Button
+                android:id="@+id/b1"
+                android:layout_width="200sp"
+                android:layout_height="wrap_content"
+                android:text="@string/F01"
+                android:textSize="15sp"
+                android:textColor="@color/black"
+                android:layout_marginLeft="110dp"
+                android:layout_marginStart="110dp"
+                android:layout_marginTop="20dp">
+
+            </Button>
+
+        <Button
+            android:id="@+id/b2"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F01"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b3"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F03"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b4"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F04"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b5"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F05"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b6"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F06"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b7"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F07"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b8"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F08"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b9"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F09"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b10"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F10"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b11"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F11"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b12"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F12"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b13"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F13"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b14"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F14"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b15"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F15"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+        <Button
+            android:id="@+id/b16"
+            android:layout_width="200sp"
+            android:layout_height="wrap_content"
+            android:text="@string/F16"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginLeft="110dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp">
+
+        </Button>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -34,6 +34,7 @@
 
 
     <!-- START of BODYNUMBER Activity -->
+    <string name="F001">Vehicle BodyNumber</string>
     <string name="F01">F-01</string>
     <string name="F02">F-02</string>
     <string name="F03">F-03</string>
@@ -54,6 +55,7 @@
     <!-- END of BODYNUMBER Activity -->
 
     <!-- START of TRIP Activity -->
+    <string name="T001">Trip Number</string>
 
     <string name="T1">01</string>
     <string name="T2">02</string>
@@ -69,7 +71,7 @@
     <!-- END of TRIP Activity -->
 
     <!-- FARE AMOUNT  -->
-    <string name= "Fare">FARE</string>
+    <string name="Fare">FARE</string>
     <string name="F1">50</string>
     <string name="F2">45</string>
     <string name="F3">40</string>
@@ -83,7 +85,6 @@
     <string name="SAVE">SAVE</string>
 
     <!-- FARE AMOUNT  -->
-
 
 
 </resources>
